@@ -1,18 +1,18 @@
-![colorful-illustrations development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwbTlveTE4c3FsczJqamM5cTU5aG5uejM5OGowaHY5cnA3OHlmcndhNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJBbXQooivUNq/giphy.gif)
-
 # Introduction
-Bonjour ! Je suis topgamerendless-png, un développeur passionné par la technologie et le gaming.
+Salut ! Je suis **topgamerendless-png**, un passionné de jeux vidéo et de programmation. J'adore créer et partager des projets innovants.
 
 # Skills
-- Langages : JavaScript, Python, C++
-- Frameworks : React, Node.js, Django
-- Outils : Git, Docker, Visual Studio Code
+- Développement Web (HTML, CSS, JavaScript)
+- Programmation Python
+- Développement de jeux (Unity, Unreal Engine)
+- Gestion de version avec Git
 
 # Projects
-- **GameDev** : Un projet de jeu 2D en JavaScript.
-- **API REST** : Développement d'une API en Python avec Flask.
-- **Portfolio** : Mon portfolio en ligne pour présenter mes projets.
+- [Jeu de plateforme 2D](https://github.com/topgamerendless-png/2d-platformer)
+- [Application de gestion de tâches](https://github.com/topgamerendless-png/task-manager)
+- [Site Web portfolio](https://github.com/topgamerendless-png/portfolio)
 
 # Contacts
+Vous pouvez me contacter via :
 - Email : topgamerendless@example.com
-- LinkedIn : [linkedin.com/in/topgamerendless](https://linkedin.com/in/topgamerendless)
+- Twitter : [@topgamerendless](https://twitter.com/topgamerendless)
